@@ -3,7 +3,8 @@
 	url = https://github.com/tianocore/edk2.git
 [submodule "edk2-platforms"]
 	path = edk2-platforms
-	url = https://github.com/tianocore/edk2-platforms.git
+	url = https://github.com/cabeljunky/edk2-platforms.git
+	branch = pi-ipxe-boot
 [submodule "edk2-non-osi"]
 	path = edk2-non-osi
 	url = https://github.com/tianocore/edk2-non-osi.git
